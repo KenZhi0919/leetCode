@@ -9,3 +9,4 @@
 11 | Container With Most Water | [JavaScript](https://github.com/KenZhi0919/leetCode/blob/master/Algorithms/Array/11.ts) | Medium
 15 | 3 Sum | [JavaScript](https://github.com/KenZhi0919/leetCode/blob/master/Algorithms/Array/15.ts) | Medium
 16 | 3 sum-closest | [JavaScript](https://github.com/KenZhi0919/leetCode/blob/master/Algorithms/Array/16.ts) | Medium
+18 | 4 sum| [JavaScript](https://github.com/KenZhi0919/leetCode/blob/master/Algorithms/Array/18.ts) | Medium
