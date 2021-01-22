@@ -3,13 +3,13 @@
  * @return {number[][]}
  */
 var threeSum = function (nums) {
-  /** 1.先排序 */
+  /** 先排序 */
   nums.sort((a, b) => a - b)
   // set 的用途為儲存不重複的值
   const set = new Set()
   // resultList 為解答
   const resultList = []
-  /** 2.執行迴圈 */
+
   for (let i = 0; i < nums.length - 2; i++) {
     let left = i + 1
     let right = nums.length - 1
@@ -38,5 +38,3 @@ var threeSum = function (nums) {
   }
   return resultList
 }
-
-threeSum([-1, 0, 1, 2, -1, -4])
